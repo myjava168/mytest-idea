@@ -5,4 +5,5 @@ public class MyTest {
     private String name;
     private String address;
     private String age;
+    private Integer num;
 }
